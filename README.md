@@ -26,7 +26,7 @@
 - 💬 Ask me about **Python, C++, Java**
 - 📫 How to reach me **tusharjain1911@gmail.com**
 <!--Intro end-->
-
+<img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
